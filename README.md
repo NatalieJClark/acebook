@@ -12,6 +12,9 @@
   - faker to generate fake names for testing
   - junit4 for unit testing
   - spring-security for authentication and user management
+
+<img width="1438" alt="image" src="https://github.com/NatalieJClark/acebook/assets/107806810/cea0effb-5138-4ae1-a688-b51bd1bf42df">
+
   
 ## Objectives
 - [x] Maven:
