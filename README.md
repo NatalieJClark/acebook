@@ -13,7 +13,18 @@
   - junit4 for unit testing
   - spring-security for authentication and user management
 
-<img width="1438" alt="image" src="https://github.com/NatalieJClark/acebook/assets/107806810/cea0effb-5138-4ae1-a688-b51bd1bf42df">
+<img width="1438" alt="image" src="https://github.com/NatalieJClark/acebook/assets/107806810/cea0effb-5138-4ae1-a688-b51bd1bf42df">  
+
+
+Web App Mockup:
+
+<img width="720" alt="image" src="https://github.com/NatalieJClark/acebook/assets/107806810/c5def9bf-62a0-491b-8a03-0d4866d15d48">  
+
+
+Database Schema:  
+
+<img width="1158" alt="image" src="https://github.com/NatalieJClark/acebook/assets/107806810/bf54c31a-ac29-415c-8a24-5d9e5e19512c">
+
 
   
 ## Objectives
