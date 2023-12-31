@@ -48,8 +48,8 @@ To run the app:
 ```
 To run the tests:
 ```java
-// Install chromedriver
-; brew install chromedriver
+// Install chromedriver 
+; brew install chromedriver // If you're on a Mac, Chromedriver needs to be in /usr/local/bin
 
 // Start the server in a terminal session
 ; mvn spring-boot:run
@@ -58,15 +58,3 @@ To run the tests:
 // Run your tests in this second terminal session
 ; mvn test
 ```
-Common Setup Issues:
-- The application is not running:  
-
-For the feature tests to execute properly, you'll need to have the server running in one terminal session and then use a second terminal session to run the tests.
-
-- Chromedriver is in the wrong place:  
-
-Selenium uses Chromedriver to interact with the Chrome browser. If you're on a Mac, Chromedriver needs to be in `/usr/local/bin`. You can find out where it is like this `which chromedriver`. If it's in the wrong place, move it using `mv`.
-
-- Chromedriver can't be opened:  
-
-Your Mac might refuse to open Chromedriver because it's from an unidentified developer. If you see a popup at that point, dismiss it by selecting `Cancel`, then go to `System Preferences`, `Security and Privacy`, `General`. You should see a message telling you that Chromedriver was blocked and, if so, there will be an `Open Anyway` button. Click that and then re-try your tests.
