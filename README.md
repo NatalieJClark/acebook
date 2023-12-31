@@ -55,7 +55,7 @@ To run the app:
 // Build the app and start the server, using the Maven command
 ; mvn spring-boot:run
 // The database migrations will run automatically at this point
-// Visit `http://localhost:8080/users/new` to sign up
+// Visit http://localhost:8080/login to log in or sign up
 ```
 To run the tests:
 ```java
