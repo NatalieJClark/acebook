@@ -17,32 +17,18 @@
 
   
 ## Objectives
-- [x] Maven:
-  - [x] I can explain what pom.xml is for
-  - [x] I can start the app using Maven
-- [x] Thymeleaf:
-  - [x] I can explain the code in `posts/index.html`
-  - [x] I can plan a new template that could be used for editing a post
-- [x] Flyway:
-  - [x] I can explain what a migration is
-  - [x] I can explain when migrations are run
-  - [x] I can explain the code in the two migration files in this directory `/db/migration/`
-  - [x] I can explain the naming convention for flyway migration files
-- [x] Selenium:
-  - [x] I can explain the code in `SignUpTest.java`
-  - [x] I can write a new feature test for unsuccessful sign up
-- [x] Faker:
-  - [x] I can explain what Faker does
-  - [x] I can explain why it's useful
-- [x] JUnit4:
-  - [x] I can explain the code in `PostTest.java`
-  - [x] I could add more test cases to `PostTest.java`
-- [x] The repository pattern:
-  - [x] I can explain the repository pattern
-- [x] SpringBoot:
-  - [x] I can diagram how this SpringBoot application handles `GET "/posts"`
-- [x] Spring Security:
-  - [x] I can explain how this app is secured
+The user can:
+- [x] Create an account
+- [x] Log in and out
+- [x] See navbar links for "Friends, "Log out" and "Acebook (newsfeed)", as well as their profile picture (which links to their profile), when they are logged in
+- [x] View all users' posts
+- [x] Create a post with text and/or emojis
+- [x] Create a post with a picture
+- [x] Like a post
+- [x] Comment on a post
+- [x] Send a friend request to another user
+- [x] Accept friend requests from other users
+- [x] See all of their friends
 
 ## Setup
 To run the app:
