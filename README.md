@@ -55,6 +55,7 @@ To run the app:
 // Build the app and start the server, using the Maven command
 ; mvn spring-boot:run
 // The database migrations will run automatically at this point
+
 // Visit http://localhost:8080/login to log in or sign up
 ```
 To run the tests:
@@ -69,3 +70,10 @@ To run the tests:
 // Run your tests in this second terminal session
 ; mvn test
 ```
+## Collaborators
+
+With thanks to my Phoenixes teammates:
+- [@xengeo](https://github.com/xengeo)
+- [@zakkariyaa](https://github.com/zakkariyaa)
+- [@davidsholoye](https://github.com/davidsholoye)
+- [@somunachima](https://github.com/somunachima)
